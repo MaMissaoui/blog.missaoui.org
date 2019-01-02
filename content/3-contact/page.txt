@@ -1,0 +1,15 @@
+Title: Contact
+
+----
+
+Description: This could be an awesome contact page.
+
+----
+
+Text: 
+
+This blog is made with Kirby.
+
+If you have any questions about the theme don't hesitate to drop me a line.
+
+<mam@missaoui.org> | (twitter: @MaMissaoui) | (facebook: @MaMissaoui)

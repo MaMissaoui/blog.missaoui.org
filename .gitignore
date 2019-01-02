@@ -1,0 +1,7 @@
+.DS_Store
+/assets/avatars/
+/site/accounts/
+/site/cache
+/thumbs
+/site/config/config.blog.missaoui.test.php
+/site/config/config.blog.missaoui.org.php
