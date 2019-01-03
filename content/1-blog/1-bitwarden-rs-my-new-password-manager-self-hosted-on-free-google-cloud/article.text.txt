@@ -26,4 +26,4 @@ Text:
 
 Coming soon ...
 
-**hallo***Italic text*
+**hallo** *Italic text*
