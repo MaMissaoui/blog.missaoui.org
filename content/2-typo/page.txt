@@ -6,4 +6,7 @@ Description: List of useful links.
 
 ----
 
-Text: (link: https://www.heise.de text: Heise.de)
+Text: 
+
+- (link: https://www.heise.de text: Heise.de)
+- (link: https://www.sport1.de text: Sport1)
