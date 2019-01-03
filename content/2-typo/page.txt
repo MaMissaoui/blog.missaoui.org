@@ -6,4 +6,4 @@ Description: List of useful links.
 
 ----
 
-Text: The list of links will be maintained later.
+Text: (link: https://www.heise.de text: Heise.de)
