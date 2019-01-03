@@ -2,7 +2,7 @@ Articlemeta:
 
 ----
 
-Title: BitWarden RS - my new password manager self hosted on free Google Cloud
+Title: bitwarden_rs - my new password manager self hosted on free Google Cloud
 
 ----
 
@@ -10,11 +10,11 @@ Date:
 
 ----
 
-Description: 
+Description: Step by step tutorial to setup bitwarden_rs in a free google cloud compute engine
 
 ----
 
-Tags: 
+Tags: Bitwarden,Google Compute Engine
 
 ----
 
@@ -22,4 +22,4 @@ Articlecontent:
 
 ----
 
-Text: 
+Text: Coming soon ...
