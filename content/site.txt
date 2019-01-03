@@ -6,8 +6,8 @@ Author: Sascha Lack
 
 ----
 
-Description: A nice & clean basic blog theme for Kirby
+Description: Welcome to my Personal Blog
 
 ----
 
-Info: © 2012-(date: Year) (link: http://baseblog.sashtown.de text: Baseblog) by (link: http://sashtown.de text: Sascha Lack) | Based on (link: http://getkirby.com text: Kirby) | (link: feed text: RSS Feed)
+Info: © 2018-(date: Year) (link: https://blog.missaoui.org text: Mohamed's Blog) | Based on (link: http://getkirby.com text: Kirby) & (link: https://baseblog.sashtown.de text: Baseblog) | (link: feed text: RSS Feed)
