@@ -2,7 +2,7 @@ Articlemeta:
 
 ----
 
-Title: BITWARDEN_RS - self hosted on free Google Cloud Compute Engine
+Title: bitwarden_rs - self hosted on free Google Cloud Compute Engine
 
 ----
 
