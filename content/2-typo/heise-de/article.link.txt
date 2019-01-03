@@ -6,15 +6,15 @@ Title: Heise.de
 
 ----
 
-Date: 
+Date: 2019-01-03
 
 ----
 
-Description: 
+Description: Daily news from Heise.de
 
 ----
 
-Tags: 
+Tags: Heise,CT,IX,IT
 
 ----
 
@@ -22,11 +22,11 @@ Link-meta:
 
 ----
 
-Customlink: 
+Customlink: https://www.heise.de
 
 ----
 
-Linktitle: 
+Linktitle: Heise
 
 ----
 
