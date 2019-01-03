@@ -6,4 +6,4 @@ Feed
 
 Description:
 
-The blog feed for Baseblog.
+The blog feed for Mohamed's Blog.
