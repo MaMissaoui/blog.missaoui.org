@@ -22,4 +22,8 @@ Articlecontent:
 
 ----
 
-Text: Coming soon ...
+Text: 
+
+Coming soon ...
+
+**hallo***Italic text*

@@ -22,7 +22,7 @@
   </head>
   <body>
 
-    <header class="site-header" role="banner">
-      <a href="<?= url() ?>"><?= $site->title()->html() ?></a>
-      <p><?= $site->description()->html() ?></p>
-    </header>
+  <header class="site-header" role="banner">
+  <a href="<?= url() ?>"><img src="<?php echo url('assets/images/logo.svg'); ?>" /></a>
+  <p><?= $site->description()->html() ?></p>
+</header>
