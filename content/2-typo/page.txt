@@ -10,3 +10,4 @@ Text:
 
 - (link: https://www.heise.de text: Heise.de)
 - (link: https://www.sport1.de text: Sport1)
+- (link: https://www.ghisler.com text: Total Commander)
