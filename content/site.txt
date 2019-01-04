@@ -6,7 +6,7 @@ Author: Mohamed Ali Missaoui
 
 ----
 
-Description: Welcome to my Personal Blog
+Description: Welcome to my personal Blog
 
 ----
 

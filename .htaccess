@@ -41,7 +41,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
 # Hide git-related files
-RedirectMatch 404 /\.git
+# RedirectMatch 404 /\.git
 
 </IfModule>
 
