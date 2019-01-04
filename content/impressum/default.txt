@@ -16,8 +16,6 @@ Pagecontent:
 
 Text: 
 
-# Impressum #
-
 ##Angaben gemäß § 5 TMG##
  
 Mohamed Ali Missaoui 
