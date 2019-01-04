@@ -10,4 +10,4 @@ Description: Welcome to my personal Blog
 
 ----
 
-Info: © 2018-(date: Year) (link: https://blog.missaoui.org text: Mohamed's Blog) | Based on (link: http://getkirby.com text: Kirby) & (link: https://baseblog.sashtown.de text: Baseblog) | (link: feed text: RSS Feed)
+Info: © 2018-(date: Year) (link: https://blog.missaoui.org text: Mohamed's Blog) | Based on (link: http://getkirby.com text: Kirby) & (link: https://baseblog.sashtown.de text: Baseblog) | (link: impressum text: Impressum – Legal Disclosure)
